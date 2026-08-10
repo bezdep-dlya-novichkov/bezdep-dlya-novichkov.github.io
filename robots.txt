@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: bezdep-dlya-novichkov.github.io
+Sitemap: https://bezdep-dlya-novichkov.github.io/sitemap.xml
